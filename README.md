@@ -8,11 +8,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ## 📊 GitHub 统计
-![](https://github-readme-stats.vercel.app/api?username=beiyu1024&show_icons=true&theme=tokyonight)
+![](https://stats.deeptrain.net/api?username=beiyu1024&theme=tokyonight)
 
 ## 💻 常用语言
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beiyu1024&layout=compact&theme=tokyonight)
-
+![](https://stats.deeptrain.net/api/langs?username=beiyu1024&layout=compact&theme=tokyonight)
 ## 📌 正在做的事
 - 📒 学习 Git 命令
 - 🎯 目标：参与第一个开源项目
